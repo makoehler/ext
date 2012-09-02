@@ -1,0 +1,61 @@
+{
+    "name": "badge_button",
+    "settings": {
+        "urlPrefix": "http://localhost/badge_button",
+        "spacesToIndent": 4,
+        "exportPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false
+    },
+    "xdsVersion": "2.1.0",
+    "xdsBuild": 588,
+    "schemaVersion": 1,
+    "upgradeVersion": 210000000495,
+    "framework": "ext41",
+    "topInstanceFileMap": {
+        "9b2e4f6e-dc27-4d64-821a-eaa7a792921e": {
+            "paths": [
+                "metadata/resource/Library"
+            ],
+            "className": "Library"
+        },
+        "9bac6bba-990d-484f-98b0-7edc658f09c3": {
+            "paths": [
+                "metadata/view/MyToolbar",
+                "app/view/override/MyToolbar.js",
+                "app/view/MyToolbar.js",
+                "app/view/Viewport.js"
+            ],
+            "className": "MyToolbar"
+        },
+        "4701abdc-e4b1-4645-92c4-4efe2d3f8cb7": {
+            "paths": [
+                "metadata/resource/css"
+            ],
+            "className": "css"
+        },
+        "7972ac10-0681-4ea4-a6aa-59727d12304a": {
+            "paths": [
+                "metadata/resource/js"
+            ],
+            "className": "js"
+        }
+    },
+    "viewOrderMap": {
+        "view": [
+            "9bac6bba-990d-484f-98b0-7edc658f09c3"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "9b2e4f6e-dc27-4d64-821a-eaa7a792921e",
+            "4701abdc-e4b1-4645-92c4-4efe2d3f8cb7",
+            "7972ac10-0681-4ea4-a6aa-59727d12304a"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

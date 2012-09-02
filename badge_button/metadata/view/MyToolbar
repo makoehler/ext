@@ -1,0 +1,15 @@
+{
+    "type": "toolbar",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "MyToolbar",
+        "designer|initialView": true,
+        "width": 400
+    },
+    "id": "ExtBox1-ext-gen13486",
+    "designerId": "9bac6bba-990d-484f-98b0-7edc658f09c3"
+}

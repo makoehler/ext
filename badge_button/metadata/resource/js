@@ -1,0 +1,13 @@
+{
+    "type": "jsresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "url": "badgebutton.js"
+    },
+    "id": "ExtBox1-ext-gen2349",
+    "designerId": "7972ac10-0681-4ea4-a6aa-59727d12304a"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "cssresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "url": "badge.css"
+    },
+    "id": "ExtBox1-ext-gen22086",
+    "designerId": "4701abdc-e4b1-4645-92c4-4efe2d3f8cb7"
+}
